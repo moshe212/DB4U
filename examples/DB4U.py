@@ -76,13 +76,15 @@ class CurrentTimeRTD(RTD):
 
             try:
                 # Setting 'value' on an RTD instance triggers an update in Excel
-                SQLCommand = ('select top 5 City from mainposts')
+                SQLCommand = (
+                    'select top 5 City from mainposts ORDER BY NEWID()')
                 cursor.execute(SQLCommand)
+                self.value = []
                 for i in cursor:
                     print(i)
+                    self.value.append(i)
                 # self.value = [random.random() for x in range(10)]
-                self.value = ['test' for i in cursor]
-               
+
                 _log.info(self.value)
             except:
                 _log.error("Error setting RTD value", exc_info=True)
@@ -91,7 +93,7 @@ class CurrentTimeRTD(RTD):
                 exc_type, exc_value, exc_trace = sys.exc_info()
                 self.set_error(exc_type, exc_value, exc_trace)
 
-            time.sleep(50)
+            time.sleep(5)
 
 
 @xl_func(": rtd")

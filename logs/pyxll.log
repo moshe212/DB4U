@@ -1,101 +1,70 @@
-2021-12-27 17:01:34,340 - INFO : This product is licensed to 
-2021-12-27 17:01:34,360 - INFO : The license will expire on 2022-01-08 (12 days left)
-2021-12-27 17:01:35,811 - INFO : callbacks.on_close: PyXLL is closing
-2021-12-27 17:01:47,470 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:01:58,638 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:02:09,748 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:02:20,833 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:02:31,887 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:02:42,915 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:02:53,997 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:03:05,089 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:03:16,072 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:03:27,138 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:03:38,168 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:03:49,230 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:04:00,277 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:04:11,312 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:04:22,366 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:04:33,309 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:04:44,250 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:04:55,233 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:05:06,236 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:05:17,306 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:05:28,375 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:05:39,531 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:05:50,505 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:06:01,499 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:06:12,479 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:06:23,530 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:06:34,566 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:06:45,637 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:06:56,699 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:07:07,689 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:07:18,710 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:07:29,753 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:07:40,719 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:07:51,738 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:08:02,839 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:08:13,929 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:08:24,964 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:08:36,195 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:08:47,249 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:08:58,365 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:09:09,478 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:09:20,438 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:09:31,431 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:09:42,425 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:09:53,541 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:10:04,486 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:10:15,560 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:10:26,564 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:10:37,507 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:10:48,521 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:10:59,498 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:11:10,537 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:11:21,631 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:11:32,601 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:11:43,619 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:11:54,597 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:12:05,562 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:12:16,539 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:12:27,505 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:12:38,516 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:12:49,488 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:13:00,550 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:13:11,554 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:13:22,567 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:13:33,642 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:13:44,676 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:13:55,758 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:14:06,836 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:14:17,894 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:14:28,932 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:14:39,910 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:14:50,989 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:15:02,071 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:15:13,157 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:15:24,262 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:15:35,384 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:15:46,564 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:15:57,604 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:16:08,647 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:16:19,757 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:16:30,824 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:16:41,832 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:16:52,876 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:17:03,926 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:17:15,031 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:17:26,078 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:17:37,170 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:17:48,219 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:17:59,280 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:18:10,343 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:18:21,475 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:18:32,536 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:18:43,552 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:18:54,535 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:19:05,719 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:19:16,770 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
-2021-12-27 17:19:24,453 - INFO : callbacks.on_close: PyXLL is closing
-2021-12-27 17:19:29,651 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
+2021-12-30 18:10:40,340 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          5.3.0
+  Buildtime        2021-10-07 10:42
+  Python version   3.9
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2021-12-30 18:10:53,108 - INFO : This product is licensed to 
+2021-12-30 18:10:53,111 - INFO : The license will expire on 2022-01-08 (9 days left)
+2021-12-30 18:10:53,225 - INFO : open
+2021-12-30 18:10:53,239 - INFO : OK
+2021-12-30 18:11:04,947 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
+2021-12-30 18:11:16,051 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
+2021-12-30 18:11:28,442 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          5.3.0
+  Buildtime        2021-10-07 10:42
+  Python version   3.9
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2021-12-30 18:11:36,862 - INFO : This product is licensed to 
+2021-12-30 18:11:36,863 - INFO : The license will expire on 2022-01-08 (9 days left)
+2021-12-30 18:11:36,904 - INFO : reload
+2021-12-30 22:49:50,720 - INFO : callbacks.on_close: PyXLL is closing
+2021-12-30 22:49:58,445 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          5.3.0
+  Buildtime        2021-10-07 10:42
+  Python version   3.9
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2021-12-30 22:50:14,546 - INFO : This product is licensed to 
+2021-12-30 22:50:14,548 - INFO : The license will expire on 2022-01-08 (9 days left)
+2021-12-30 22:50:14,767 - INFO : open
+2021-12-30 22:50:14,820 - INFO : ["OK",null]
+2021-12-30 22:50:26,662 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
+2021-12-30 22:50:37,658 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
+2021-12-30 22:50:46,814 - INFO : callbacks.on_close: PyXLL is closing
+2021-12-30 23:33:28,868 - INFO : 
+------------------------------------------------------------------------------
+  PyXLL 
+
+  Version          5.3.0
+  Buildtime        2021-10-07 10:42
+  Python version   3.9
+  Excel version    16.0 (32 bit)
+
+  www.pyxll.com
+------------------------------------------------------------------------------
+2021-12-30 23:33:31,845 - INFO : This product is licensed to 
+2021-12-30 23:33:31,847 - INFO : The license will expire on 2022-01-08 (9 days left)
+2021-12-30 23:33:32,030 - INFO : open
+2021-12-30 23:33:32,064 - INFO : ["OK",{"recordsets":[[{"City":"ירושלים"},{"City":"טבריה"},{"City":"ירושלים"},{"City":"נתיבות"},{"City":"באר שבע"}]],"recordset":[{"City":"ירושלים"},{"City":"טבריה"},{"City":"ירושלים"},{"City":"נתיבות"},{"City":"באר שבע"}],"output":{},"rowsAffected":[]}]
+2021-12-30 23:33:44,033 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
+2021-12-30 23:33:55,188 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
+2021-12-30 23:34:06,302 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
+2021-12-30 23:34:17,459 - WARNING : Delay in processing scheduled callbacks: Unable to find XLMAIN window.
+2021-12-30 23:34:19,196 - INFO : callbacks.on_close: PyXLL is closing
